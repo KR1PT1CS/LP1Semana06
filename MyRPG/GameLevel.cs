@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Humanizer;
  
-namespace MyRPG
+ namespace MyRPG
  {
      public class GameLevel
      {
